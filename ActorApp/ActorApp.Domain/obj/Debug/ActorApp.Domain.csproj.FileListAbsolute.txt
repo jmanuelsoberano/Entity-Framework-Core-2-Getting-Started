@@ -1,0 +1,6 @@
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Domain\bin\Debug\ActorApp.Domain.dll
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Domain\bin\Debug\ActorApp.Domain.pdb
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Domain\obj\Debug\ActorApp.Domain.csprojAssemblyReference.cache
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Domain\obj\Debug\ActorApp.Domain.csproj.CoreCompileInputs.cache
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Domain\obj\Debug\ActorApp.Domain.dll
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Domain\obj\Debug\ActorApp.Domain.pdb

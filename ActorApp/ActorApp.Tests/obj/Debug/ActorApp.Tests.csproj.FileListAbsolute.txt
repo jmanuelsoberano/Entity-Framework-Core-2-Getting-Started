@@ -1,0 +1,14 @@
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Tests\bin\Debug\ActorApp.Tests.dll
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Tests\bin\Debug\ActorApp.Tests.pdb
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Tests\obj\Debug\ActorApp.Tests.csprojAssemblyReference.cache
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Tests\obj\Debug\ActorApp.Tests.csproj.CoreCompileInputs.cache
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Tests\obj\Debug\ActorApp.Tests.csproj.CopyComplete
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Tests\obj\Debug\ActorApp.Tests.dll
+C:\Proyectos\@jmanuelsoberano\Entity Framework Core 2 - Getting Started\ActorApp\ActorApp.Tests\obj\Debug\ActorApp.Tests.pdb
