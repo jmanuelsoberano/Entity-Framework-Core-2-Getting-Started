@@ -1,0 +1,9 @@
+ActorAppCore/ActorAppCore.Domain/obj/Debug/
+ActorAppCore/ActorAppCore.Domain/bin/Debug/
+ActorAppCore/ActorAppCore.Data/obj/Debug/
+ActorAppCore/ActorAppCore.Data/bin/Debug/
+ActorAppCore/ActorAppCore.Tests/obj/Debug/
+ActorAppCore/ActorAppCore.Tests/bin/Debug/
+ActorAppCore/ActorAppCore.UI/obj/Debug/
+ActorAppCore/ActorAppCore.UI/bin/Debug/
+.vs/
